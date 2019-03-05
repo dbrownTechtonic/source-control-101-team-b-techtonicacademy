@@ -14,7 +14,7 @@ Fork this repository or follow the provided GitHub classroom link (if we've give
 
 * Team members should accept the invite and join the team, as well as clone the Captain's repository
 
-* Each team mbmer will create a local feature branch with ```git flow feature start <FEATURE>```.  This new branch should be called ```feature/<YOURNAME>``` (the ```feature/``` is created when you use ```fit flow feature start``` to create a new branch).  
+* Each team member will create a local feature branch with ```git flow feature start <FEATURE>```.  This new branch should be called ```feature/<YOURNAME>``` (the ```feature/``` is created when you use ```git flow feature start``` to create a new branch).  
 
 * Each team member should complete all 3 sections in index.html
   * 3 strengths
